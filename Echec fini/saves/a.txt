@@ -1,0 +1,16 @@
+Roi
+noir
+1
+A7
+Pion
+blanc
+1
+D7
+Pion
+blanc
+2
+E7
+Roi
+blanc
+1
+H1

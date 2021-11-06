@@ -1,0 +1,18 @@
+Roi
+noir
+
+A7
+Pion
+blanc
+
+D7
+Pion
+blanc
+
+E7
+Roi
+blanc
+
+H1
+Ceci est un essaie
+eseniie
